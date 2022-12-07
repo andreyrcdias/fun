@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 # https://www.beecrowd.com.br/judge/en/problems/view/1512
 
 from math import gcd

@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 # https://www.beecrowd.com.br/judge/en/problems/view/2630
 
 t = int(input())
