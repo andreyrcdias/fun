@@ -8,6 +8,9 @@ while True:
     n, a, b = map(int, input().split())
     if n == a == b == 0:
         break
-    lcm = (a * b) // gcd(a, b)
-    t = n // a + n // b - n // lcm
-    print(t)
+    lcm = a * b // gcd(a, b)
+    na = n // a
+    nb = n // b
+    nlcm = n // lcm
+    print(na + nb - nl)
+
