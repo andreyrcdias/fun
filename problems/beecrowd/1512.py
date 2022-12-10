@@ -11,5 +11,5 @@ while True:
     na = n // a
     nb = n // b
     nlcm = n // lcm
-    print(na + nb - nl)
+    print(na + nb - nlcm)
 
