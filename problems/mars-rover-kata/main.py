@@ -24,7 +24,7 @@ def move(heading: Heading, position: Coordinates) -> Coordinates:
     match heading:
         case "N": return x, y + 1
         case "E": return x + 1, y
-        case  "S": return x, y - 1
+        case "S": return x, y - 1
         case "W": return x - 1, y
 
 
@@ -71,3 +71,4 @@ class MainTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
