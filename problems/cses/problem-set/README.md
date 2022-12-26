@@ -1,9 +1,9 @@
 # [CSES Problem Set](https://cses.fi/problemset/list/)
 ## Introductory Problems
-- [x] Weird Algorithm
-- [x] Missing Number
-- [x] Repetitions
-- [x] Increasing Array
+- [x] [Weird Algorithm](weird_algorithm.py)
+- [x] [Missing Number](missing_number.py)
+- [x] [Repetitions](repetitions.py)
+- [x] [Increasing Array](increasing_array)
 - [ ] Permutations
 - [ ] Number Spiral
 - [ ] Two Knights
