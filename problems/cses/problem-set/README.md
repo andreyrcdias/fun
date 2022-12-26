@@ -3,7 +3,7 @@
 - [x] [Weird Algorithm](weird_algorithm.py)
 - [x] [Missing Number](missing_number.py)
 - [x] [Repetitions](repetitions.py)
-- [x] [Increasing Array](increasing_array)
+- [x] [Increasing Array](increasing_array.py)
 - [ ] Permutations
 - [ ] Number Spiral
 - [ ] Two Knights
@@ -19,4 +19,3 @@
 - [ ] Chessboard and Queens
 - [ ] Digit Queries
 - [ ] Grid Paths
-
