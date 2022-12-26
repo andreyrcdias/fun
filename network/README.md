@@ -1,2 +1,2 @@
-from https://github.com/EONRaider/blackhat-python3
+https://github.com/EONRaider/blackhat-python3
 

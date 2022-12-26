@@ -1,2 +1,2 @@
-from https://cses.fi/problemset/list/
+https://cses.fi/problemset/list/
 
