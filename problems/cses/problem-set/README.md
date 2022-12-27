@@ -1,9 +1,9 @@
 # [CSES Problem Set](https://cses.fi/problemset/list/)
 ## Introductory Problems
-- [x] [Weird Algorithm](weird_algorithm.py)
-- [x] [Missing Number](missing_number.py)
-- [x] [Repetitions](repetitions.py)
-- [x] [Increasing Array](increasing_array.py)
+- [x] [Weird Algorithm](introductory/weird_algorithm.py)
+- [x] [Missing Number](introductory/missing_number.py)
+- [x] [Repetitions](introductory/repetitions.py)
+- [x] [Increasing Array](introductory/increasing_array.py)
 - [ ] Permutations
 - [ ] Number Spiral
 - [ ] Two Knights
@@ -19,3 +19,7 @@
 - [ ] Chessboard and Queens
 - [ ] Digit Queries
 - [ ] Grid Paths
+
+## Sorting and Searching
+- [x] [Distinct Numbers](sorting_searching/distinc_numbers.py)
+- [] Apartments
