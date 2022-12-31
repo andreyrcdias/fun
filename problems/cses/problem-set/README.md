@@ -8,11 +8,11 @@
 - [ ] Number Spiral
 - [ ] Two Knights
 - [ ] Two Sets
-- [ ] Bit Strings
+- [x] [Bit Strings](introductory/bit_strings.py)
 - [ ] Trailing Zeros
 - [ ] Coin Piles
 - [ ] Palindrome Reorder
-- [ ] Gray Code
+- [x] Gray Code
 - [ ] Tower of Hanoi
 - [ ] Creating Strings
 - [ ] Apple Division
@@ -22,4 +22,22 @@
 
 ## Sorting and Searching
 - [x] [Distinct Numbers](sorting_searching/distinc_numbers.py)
-- [] Apartments
+- [ ] Apartments
+- [ ] Ferris Wheel
+- [ ] Concert Tickets
+- [ ] Restaurant Customers
+- [ ] Movie Festival
+- [ ] Sum of Two Values
+- [ ] Maximum Subarray Sum
+- [ ] Stick Lengths
+- [ ] Missing Coin Sum
+- [ ] Collecting Numbers
+- [ ] Collecting Numbers II
+- [ ] Playlist
+- [ ] Towers
+- [ ] Traffic Lights
+- [ ] Josephus Problem I
+- [ ] Josephus Problem II
+- [ ] Nested Ranges Check
+- [ ] Nested Ranges Count
+
